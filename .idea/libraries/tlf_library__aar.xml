@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="tlf_library:@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/tlf_library.aar/3d2f9cceb4e02d55dc8cb3fdcc208757/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/tlf_library.aar/3d2f9cceb4e02d55dc8cb3fdcc208757/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

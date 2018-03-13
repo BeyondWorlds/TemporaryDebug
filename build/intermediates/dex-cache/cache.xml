@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\d4dc603b850d7bab334958c729d40aef5fa7e9a4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ea50d723dcfc1f681f6699a9fa468f3f0ac8d6f6">
+        <dex dex="E:\Android\WordSpace\TLFDebug\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1a7a09375052d98b0ca3a15cb12ea564a4bea290\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\WordSpace\TLFDebug\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="E:\Android\WordSpace\TLFDebug\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_cf829b7461e837ffa1cb8b3c77d7237de8961bcb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\WordSpace\TLFDebug\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="438268822a5fdc5051f5277a5b05284f0003a39e">
+        <dex dex="E:\Android\WordSpace\TLFDebug\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_12cd6ffddd542ddcbcdd5e709a45e92ed1dbbc2f\classes.dex" />
+    </item>
+
+</items>
