@@ -1,0 +1,27 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="buttonStyle">@style/Widget.AppCompat.Button</item>
+        <item name="colorButtonNormal">@android:color/holo_blue_bright</item>
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:windowFullscreen">true</item>
+    </style>
+
+    <!--字体-->
+    <style name="oxy_textStyle">
+        <item name="android:textSize">@dimen/main_textsize</item>
+        <item name="android:textColor">@color/main_text_color</item>
+    </style>
+
+    <style name="myButtonStyle">
+        <item name="android:textSize">28sp</item>
+        <item name="android:textColor">@android:color/black</item>
+        <item name="android:padding">20dp</item>
+    </style>
+</resources>
