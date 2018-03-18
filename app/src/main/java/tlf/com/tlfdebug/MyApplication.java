@@ -1,6 +1,8 @@
 package tlf.com.tlfdebug;
 
 import android.app.Application;
+import android.content.Context;
+import android.support.multidex.MultiDex;
 
 import com.tlf.keep.Tools;
 
@@ -14,5 +16,11 @@ public class MyApplication extends Application {
     public void onCreate() {
         super.onCreate();
         Tools.init(this);
+    }
+
+    @Override
+    protected void attachBaseContext(Context base) {
+        super.attachBaseContext(base);
+        MultiDex.install(base);
     }
 }

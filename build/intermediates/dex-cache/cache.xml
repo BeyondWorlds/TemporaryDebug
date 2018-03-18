@@ -3,30 +3,14 @@
 
     <item
         is-multidex="true"
-        jar="C:\Users\Administrator\.android\build-cache\d4dc603b850d7bab334958c729d40aef5fa7e9a4\output\jars\classes.jar"
-        jumboMode="true"
+        jar="C:\Users\admin\.gradle\caches\transforms-1\files-1.1\tlf_library.aar\130e1d3429e4f3f25855083752c51280\jars\libs\classes-2.jar"
+        jumboMode="false"
+        min-sdk-version="21"
         optimize="true"
-        revision="25.0.3"
-        sha1="ea50d723dcfc1f681f6699a9fa468f3f0ac8d6f6">
-        <dex dex="E:\Android\WordSpace\TLFDebug\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1a7a09375052d98b0ca3a15cb12ea564a4bea290\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="E:\Android\WordSpace\TLFDebug\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
-        <dex dex="E:\Android\WordSpace\TLFDebug\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_cf829b7461e837ffa1cb8b3c77d7237de8961bcb\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="E:\Android\WordSpace\TLFDebug\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="438268822a5fdc5051f5277a5b05284f0003a39e">
-        <dex dex="E:\Android\WordSpace\TLFDebug\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_12cd6ffddd542ddcbcdd5e709a45e92ed1dbbc2f\classes.dex" />
+        revision="26.0.2"
+        sha1="6cac35df9501681a570daebc9076b3c627f2071f">
+        <dex dex="E:\wu\Android\TemporaryDebug\app\build\intermediates\transforms\preDex\release\2\classes.dex" />
+        <dex dex="E:\wu\Android\TemporaryDebug\app\build\intermediates\transforms\preDex\release\2\classes2.dex" />
     </item>
 
 </items>

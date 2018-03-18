@@ -178,7 +178,7 @@ public class BpActivity extends BaseActivity implements View.OnClickListener {
 
         @Override
         public void onReceive(Map map) {
-            if (map.get(StateType.DATA_TYPE).toString().equals("" + StateType.TYPE_BP_PRESSURE)) {
+            if (StateType.TYPE_BP_PRESSURE.equals(map.get(StateType.DATA_TYPE))) {
                 final String pre = map.get(StateType.BP_PRESSURE).toString();
                 mHandler.post(new Runnable() {
                     @Override

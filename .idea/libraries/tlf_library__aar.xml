@@ -1,8 +1,9 @@
 <component name="libraryTable">
   <library name="tlf_library:@aar">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/tlf_library.aar/3d2f9cceb4e02d55dc8cb3fdcc208757/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/tlf_library.aar/3d2f9cceb4e02d55dc8cb3fdcc208757/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/tlf_library.aar/130e1d3429e4f3f25855083752c51280/jars/libs/classes-2.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/tlf_library.aar/130e1d3429e4f3f25855083752c51280/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/tlf_library.aar/130e1d3429e4f3f25855083752c51280/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

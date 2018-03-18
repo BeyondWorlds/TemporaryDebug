@@ -13,6 +13,7 @@ import com.tlf.keep.PermissionManager;
 
 import tlf.com.tlfdebug.ui.BpActivity;
 import tlf.com.tlfdebug.ui.BsActivity;
+import tlf.com.tlfdebug.ui.LightActivity;
 import tlf.com.tlfdebug.ui.OxyActivity;
 import tlf.com.tlfdebug.ui.TempActivity;
 import tlf.com.tlfdebug.ui.WeightActivity;
@@ -85,7 +86,8 @@ public class MainActivity extends AppCompatActivity implements OnClickListener {
                 startActivity(tempIntent);
                 break;
             case R.id.btn_other:
-                Toast.makeText(MainActivity.this, "敬请期待...", Toast.LENGTH_LONG).show();
+                Intent lightIntent = new Intent(MainActivity.this, LightActivity.class);
+                startActivity(lightIntent);
                 break;
 
         }

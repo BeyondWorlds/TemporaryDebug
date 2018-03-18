@@ -24,6 +24,7 @@
         <activity android:name=".ui.BsActivity" />
         <activity android:name=".ui.OxyActivity" />
         <activity android:name=".ui.TempActivity" />
+        <activity android:name=".ui.LightActivity"></activity>
     </application>
 
 </manifest>
